@@ -1,5 +1,5 @@
 ![alt_text](./images/top.png)
-<h2 align="center">Hey, my name is Mark de Graaff</h2>
+<h2 align="left">Hey, my name is Mark de Graaff</h2>
 
 ```php
 echo "Hello World!";
