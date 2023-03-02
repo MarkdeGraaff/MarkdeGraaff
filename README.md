@@ -25,4 +25,3 @@ while($developer->isCoding() && $developer->isStuck())
 
 <img alt="My Github stats" align="left" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=MarkdeGraaff&count_private=false&show_icons=true&hide_border=true&theme=react" href="https://github.com/MarkdeGraaff"/>
 <br/>
-![alt_text](./images/bottom.png)
